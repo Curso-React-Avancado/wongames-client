@@ -26,6 +26,7 @@
     ]
   },
   "dependencies": {
+    "@testing-library/user-event": "^12.6.3",
     "next": "9.4.4",
     "next-pwa": "^5.0.2",
     "polished": "^4.1.0",
